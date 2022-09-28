@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Rodrigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<!--
-**jafef/jafef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a majoring in Computer Engineering. Currently I'm working as a Web and Mobile and Power BI at [**Grupo Civil**](https://civil.com.br/). 🚀
 
-Here are some ideas to get you started:
+#### My current tools 
+📲 Front-end Mobile with React Native  
+🌎 Power BI 
+📡 Back-end with Nodejs  
+🛠️ Studying Typescript
+🧰 And more...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jafe-ferreira-2330b1195/)](https://www.linkedin.com/in/jafe-ferreira-2330b1195/) 
+[![Gmail Badge](https://img.shields.io/badge/-jafe.ferreira0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jafe.ferreira0@gmail.com)](mailto:jafe.ferreira0@gmail.com)
