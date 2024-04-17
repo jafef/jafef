@@ -1,6 +1,6 @@
 ### Hi, I'm Jafe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a majoring in Computer Engineering. Currently I'm working as a Web and Mobile and Power BI at [**Grupo Civil**](https://civil.com.br/). 🚀
+I’m a majoring in Computer Engineering. 🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
